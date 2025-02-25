@@ -83,7 +83,7 @@ DATABASES = {
 	'NAME': 'django_db',
 	'USER': 'admin',
 	'PASSWORD': 'RDSterraform123!',
-	'HOST': '203918877393.dkr.ecr.ap-northeast-2.amazonaws.com',
+	'HOST': 'eks-rds.cn2w4wasqikn.ap-northeast-2.rds.amazonaws.com',
 	'PORT': '3306'
     }
 }
